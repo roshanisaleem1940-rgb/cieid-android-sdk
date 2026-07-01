@@ -1,4 +1,4 @@
-# CieID-android-sdk
+md# CieID-android-sdk
 
 CieID-android-sdk è un SDK Android sviluppato in Kotlin che include le funzionalità di autenticazione di "Entra con CIE". Utilizzando questo kit, gli sviluppatori di applicazioni terze Android possono integrare l'autenticazione mediante la cartà d'identità elettronica (CIE 3.0).
 
